@@ -205,8 +205,5 @@ The project followed these main stages:
 * Low-volume complaint categories can produce unstable average resolution times.
 * Differences in service request volume may reflect reporting behavior and service composition in addition to underlying conditions.
 
-## Project Status
-
-**Completed**
 
 The project includes the analytical workflow from data recovery and validation through geospatial and socioeconomic analysis, SQL analysis, Power BI dashboard development, and documented findings.
